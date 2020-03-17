@@ -1,0 +1,16 @@
+$mainPageColor:rgb(216, 216, 218);
+
+.cv-wrapper {
+    background-color: $mainPageColor;
+    padding: 15px 15px;
+    font-family: sans-serif;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0px auto;
+    padding: 15px 15px;
+    display: flex;
+    align-items: stretch;
+    box-shadow: 0 0 50px rgba(0, 0, 0, 0.5);
+}
